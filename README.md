@@ -1,6 +1,6 @@
 # PURPOSE
 
-This is a tecnical test for evaluating Ruby on Rails skills to work in poder.IO.  To do the test, please read first how this gem works:
+This is a tecnical test for evaluating Ruby on Rails skills.  To do the test, please read first how this gem works:
 
 https://github.com/influitive/apartment
 
@@ -9,6 +9,8 @@ https://github.com/influitive/apartment
 
 
 * Fork this repository
+
+* Run the migrations in test and development environments
 
 * Run the tests:
 
